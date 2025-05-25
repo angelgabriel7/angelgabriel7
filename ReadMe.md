@@ -25,8 +25,12 @@ Passionate about contributing to Indonesia's digital banking evolution by delive
 <!-- Odoo & Related -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![XML](https://img.shields.io/badge/xml-%23009688.svg?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMy4yNSAyMS41SDguNVYxMS4yNUgxMC45VjEzLjc1QzExLjQ0NzUgMTIuNjU1IDEyLjU3NzUgMTIuMDM1IDEzLjc1IDEyLjAzNUMxNi4wMiAxMi4wMzUgMTcuNSAxMy40ODUgMTcuNSAxNS43NVYyMS41SDE1LjA1VjE1Ljc1QzE1LjA1IDE0LjY1NSAxNC4zMjUgMTQuMDM1IDEzLjI1IDE0LjAzNUgxMS45NVYyMS41SDEzLjI1Wk05IDRIMTdWNS41SDlWNFpNMTggOEMxOC44MyA4IDE5LjUgOC42NyAxOS41IDkuNVYxMC41QzE5LjUgMTEuMzMgMTguODMgMTIgMTggMTJIODMuNzVDMy4zMzUgMTIgMyA4LjY2NSAzIDguNUMzIDQuNTg1IDUuNTg1IDIuNSA4LjUgMi41QzExLjQxNSAyLjUgMTQgNC41ODUgMTQgOC41QzE0IDguNjY1IDEzLjY2NSAxMiAxMy4yNSAxMkgxOFoiLz48L3N2Zz4=&logoColor=white)
+![XML](https://img.shields.io/badge/xml-%23009688.svg?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMy4yNSAyMS41SDguNVYxMS4yNUgxMC45VjEzLjc1QzExLjQ0NzUgMTIuNjU1IDEyLjU3NzUgMTIuMDM1IDEzLjc1IDEyLjAzNUMxNi4wMiAxMi4wMzUgMTcuNSAxMy40ODUgMTcuNSAxNS43NVYyMS41SDE1LjA1VjE1Ljc1QzE1LjA1IDE0LjY1NSAxNC4zMjUgMTQuMDM1IDEzLjI1IDE0LjAzNUgxMS45NVYyMS41SDEzLjI1Wk05IDRIMTdWNS41SDlWNFpNMTggOEMxOC44MyA4IDE5LjUgOC42NyAxOS41IDkuNVYxMC41QzE5LjUgMTEuMzMgMTguODMgMTIgMTggMTJIODMuNzVDMy4zMzUgMTIgMyA4LjY2NSAzIDguNUMzIDQuNTg1IDUuNTg1IDIuNSA4LjUgMi5lNUMxMS40MTUgMi41IDE0IDQuNTg1IDE0IDguNUMxNCA4LjY2NSAxMy42NjUgMTIgMTMuMjUgMTJIMThaIi8+PC9zdmc+&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+
+<!-- New additions -->
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 
 <!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
@@ -57,5 +61,3 @@ Passionate about contributing to Indonesia's digital banking evolution by delive
 ---
 [![](https://visitcount.itsvg.in/api?id=angelgabriel7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
