@@ -6,12 +6,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<br>🔨 I'm currently focused on developing robust applications with **.NET**, customizing and implementing **Odoo ERP solutions**, and architecting secure **cloud infrastructure** (AWS/Azure).<br><br>
-👯 I'm eager to collaborate on challenging projects involving **.NET development**, **Odoo customization**, **cloud migration/optimization**, and strengthening **cybersecurity postures**.<br><br>
-💛 I'm seeking opportunities to contribute to innovative projects and connect with professionals in **advanced .NET development**, **Odoo best practices**, complex **cloud architectures**, and cutting-edge **cybersecurity strategies**.<br><br>
-🌱 I'm continuously advancing my expertise in **.NET (Core, ASP.NET)**, **Odoo (Python, XML, JS)**, **cloud platform services (AWS/Azure)**, and **cybersecurity frameworks & compliance**.<br><br>
-💬 Ask me about **.NET application architecture**, **Odoo module development**, **secure cloud solutions**, or **cybersecurity risk management**.<br><br>
-⚡ Fun fact: I maintain a private lab environment where I test emerging technologies, especially in cloud security and .NET, before recommending them for production.
+<br>Software engineer with expertise in .NET, Java, and Python, specializing in secure and compliant technology solutions for the banking, finance, and securities industries. My legal background ensures a deep understanding of regulatory compliance (e.g., POJK, OJK standards), data protection, and cybersecurity—critical for developing fintech applications.
+
+With over 6 years of experience in retail operations, I excel at leveraging data-driven decisions to optimize processes, a skill I now apply to develop efficient and scalable financial systems. Proficient in frameworks like Spring Boot (Java), ASP.NET Core, and Django (Python), with a focus on building robust APIs, microservices, and secure transaction platforms.
+
+Passionate about contributing to Indonesia's digital banking evolution by delivering solutions that align with industry standards and drive operational excellence in highly regulated environments.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulfi.global) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zulfikarzakk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zevrasiera) 
