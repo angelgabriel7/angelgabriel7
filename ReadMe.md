@@ -22,6 +22,10 @@ Passionate about contributing to Indonesia's digital banking evolution by delive
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
+<!-- C/C++ -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+
 <!-- Odoo & Related -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -60,4 +64,3 @@ Passionate about contributing to Indonesia's digital banking evolution by delive
 
 ---
 [![](https://visitcount.itsvg.in/api?id=angelgabriel7&icon=0&color=0)](https://visitcount.itsvg.in)
-
